@@ -2,7 +2,7 @@ PATH
   remote: ../../
   specs:
     rails_admin_import (1.4.0)
-      haml (~> 4.0)
+      haml (~> 5.0)
       rails (>= 3.2)
       rails_admin (>= 0.6.6)
       rchardet (~> 1.6)
@@ -65,7 +65,7 @@ GEM
       railties (>= 3.2, < 5.1)
     globalid (0.3.6)
       activesupport (>= 4.1.0)
-    haml (4.0.7)
+    haml (5.0.1)
       tilt
     hike (1.2.3)
     i18n (0.7.0)
@@ -140,7 +140,7 @@ GEM
       builder (~> 3.1)
       coffee-rails (~> 4.0)
       font-awesome-rails (>= 3.0, < 5)
-      haml (~> 4.0)
+      haml (~> 5.0)
       jquery-rails (>= 3.0, < 5)
       jquery-ui-rails (~> 5.0)
       kaminari (~> 0.14)
